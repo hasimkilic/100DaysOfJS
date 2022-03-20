@@ -1,7 +1,7 @@
 // data object
 
 /* 
-haftanın günleri 0.Gün Pazartesi ile başlar
+haftanın günleri 0.Gün her zaman Pazar günü ile başlar
 0.Ay Ocak ile başlar
 */
 
